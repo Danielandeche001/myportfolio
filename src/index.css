@@ -13,4 +13,14 @@ body {
 
 #root {
   width: 100%;
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+}
+
+input,
+textarea {
+  font-family: inherit;
 }
